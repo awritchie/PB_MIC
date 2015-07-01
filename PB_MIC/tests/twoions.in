@@ -1,0 +1,19 @@
+pqr                     = tests/twoions.pqr
+nlebedev                = 590
+
+[elec]
+sdie                    = 78
+temp                    = 300
+
+[ions]
+pion_conc               = 0
+pion_radius             = 0
+pion_charge             = +1
+
+nion_conc               = 0
+nion_radius             = 0
+nion_charge             = -1
+
+[debug]
+print_surface_grid      = 0
+print_atom_grid         = 0

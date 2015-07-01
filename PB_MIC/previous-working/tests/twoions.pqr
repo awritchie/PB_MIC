@@ -1,0 +1,6 @@
+# This is a test pqr from apbs/tools/matlab/solver/Examples/Two_ions_complex
+; This is a test pqr from apbs/tools/matlab/solver/Examples/Two_ions_complex
+#This is a test pqr from apbs/tools/matlab/solver/Examples/Two_ions_complex
+;This is a test pqr from apbs/tools/matlab/solver/Examples/Two_ions_complex
+ATOM      1  I1   ION     1       1.000   1.000  1.000  1.000  3.000
+ATOM      2  I2   ION     1      -1.000  -1.000 -1.000 -1.000  1.500

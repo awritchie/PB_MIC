@@ -1,0 +1,19 @@
+pqr                     = tests/mine.pqr
+nlebedev                = 1202
+
+[elec]
+sdie                    = 78
+temp                    = 300
+
+[ions]
+pion_conc               = 0.15
+pion_radius             = 2
+pion_charge             = +1
+
+nion_conc               = 0.15
+nion_radius             = 2
+nion_charge             = -1
+
+[debug] #(1=yes, 0=no)
+print_surface_grid      = 0
+print_atom_grid         = 0
